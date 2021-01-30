@@ -62,7 +62,7 @@ nav ul li a:hover, a.active{
     padding: 10px;
     border-radius: 5px;
     float: right;
-    width: 77%;
+    width: 72%;
     margin-left: 180px;
 }
 .booking-form h3{
@@ -101,20 +101,20 @@ nav ul li a:hover, a.active{
     font-size: 30px;
     padding: 2px;
     margin: 10px 5px 0px 0px;
-    word-spacing: 20px;
+    word-spacing: 5px;
 }
 .btn-design, .btn-design-minus{
     padding: 5px;
     color: #fff;
     font-size: 18px;
     font-weight: bold;
-    background-color: rgb(17, 121, 31);
+    background-color:  #139613;
     border: none;
     border-radius: 4px;
 }
 .btn-design-minus{
     padding: 5px 7px;
-    font-size: 20px;
+    font-size: 18px;
     background-color: #E33741;
 }
 .booking-form .inputs{
@@ -125,12 +125,13 @@ nav ul li a:hover, a.active{
 .btn-style{
     display: block;
     width: 100%;
-    padding: 10px;
+    padding: 14px;
     border-radius: 5px;
     border: none;
     color: #fff;
-    font-weight: 500;
-    background-color:  #E33741;
+    font-size: 18px;
+    font-weight: 700;
+    background-color:  #139613;
 }
 .amount{
     display: flex;
